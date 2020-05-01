@@ -239,3 +239,12 @@ ReturnHashTable = list.lenthOfList(Dict)
 print("lenth is "+str(list.lenth))
 print('Middle Node of Linked list is :{0}'.format(list.middleNode1()))
 print('Middle Node of Linked list is :{0}'.format(list.middleNode2()))
+
+
+# < ------------------------------------------------------- ->
+#  creating has table(ReturnHashTable) containing node of linked list and its posittion and looping it's object data fiels
+
+for i in ReturnHashTable.values():
+
+    print(i.data)
+
