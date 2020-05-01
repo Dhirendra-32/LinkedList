@@ -247,4 +247,3 @@ print('Middle Node of Linked list is :{0}'.format(list.middleNode2()))
 for i in ReturnHashTable.values():
 
     print(i.data)
-
